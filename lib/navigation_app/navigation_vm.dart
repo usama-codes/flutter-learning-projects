@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:learning/navigation_app/custom/push.dart';
-import 'package:learning/navigation_app/custom/pushAndRemoveUntil.dart';
-import 'package:learning/navigation_app/custom/pushReplacement.dart';
+import 'package:learning/navigation_app/custom/push_and_remove_until.dart';
+import 'package:learning/navigation_app/custom/push_replacement.dart';
 import 'package:stacked/stacked.dart';
 
 class NavigationVM extends BaseViewModel {

@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:learning/navigation_app/custom/pushNamed.dart';
-import 'package:learning/navigation_app/custom/pushNamedAndRemoveUntil.dart';
-import 'package:learning/navigation_app/custom/pushReplacement.dart';
-import 'package:learning/navigation_app/custom/pushReplacementNamed.dart';
+import 'package:learning/navigation_app/custom/push_named.dart';
+import 'package:learning/navigation_app/custom/push_named_and_remove_until.dart';
+import 'package:learning/navigation_app/custom/push_replacement.dart';
+import 'package:learning/navigation_app/custom/push_replacement_named.dart';
 import 'package:learning/navigation_app/navigation_vu.dart';
 
 void main() {
